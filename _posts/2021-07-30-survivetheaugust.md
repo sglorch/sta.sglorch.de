@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Survive the August2"
+title:  "Survive the August"
 subtitle: "Handbuch des Projekts Survive the August "
 date:   2021-07-30 12:00:00 +0200
 background: ''
@@ -34,7 +34,7 @@ Weiterhin könnt ihr sobald ihr euch etwas aufgebaut habt einen der Admins frage
 	/mcmmo
 <p>Hierüber findest du alle Infos zum Plugin mcMMO.</p>
 	/msg <Empfänger> <Nachricht>
-	/r <Nachricht>
+	/r <Nachricht> / /reply <Nachricht>
 <p>um privat Nachrichten zu senden.</p>
 	/nick <Name>
 <p>Um besseres RPG betreiben zu können, könnt ihr euch hiermit einen Nickname geben. Nicknames sind im Chat anhand eines ~ zu erkennen.</p>
