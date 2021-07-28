@@ -21,7 +21,7 @@
 title: Survive the August
 email: info+sta@sglorch.de
 description: Survive the August Minecraft Projekt
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" 
 url: "https://sta.sglorch.de"
 github_username:  sglorch
 future: true
