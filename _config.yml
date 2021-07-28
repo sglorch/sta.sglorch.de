@@ -20,13 +20,13 @@ navbar-links:
 
 url-pretty: "STA.sglorch.de"
 
-navbar-col: "#EAEAEA"
+navbar-col: "#d5f5ea"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#fffffc"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#dcedca"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
