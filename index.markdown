@@ -8,8 +8,8 @@ gh-repo: "sglorch/sta.sglorch.de"
 gh-badge: "star"
 full-width: false
 ---
-Hallo meine Lieben,
-hiermit möchte ich euch unser kleines Projekt <b>"Survive the August"</b> vorstellen. 
+Hallo meine Lieben,<br />
+hiermit möchte ich euch unser kleines Projekt <b>"Survive the August"</b> vorstellen. <br />
 Es ist einfach nur ein kleiner Survival Server, der sich vor allem auf Survival, Building und RPG fokussieren soll. Wir haben bei diesem Projekt uns für einen normalen, jedoch aus balancing Gründen vorausgewählten, Seed in der Hauptwelt entschieden. Die Hauptwelt wird weiterhin durch eine Runde Worldborder eingeschränkt, dennoch haben wir uns darum gesorgt, dass fast alle Biome vorhanden sind. Falls ihr euch einen Einblick in die Hauptwelt gönnen möchtet, gibt es [HIER](https://map.sta.sglorch.de/) eine Map für euch, um einen Überblick zu bekommen, oder euch Orte zum Bauen rauszusuchen. 
 
 Weiterhin haben wir eine Farmwelt, welche ihr über die Warp-Schilder am Spawn erreichen könnt, diese hat einen zufälligen Seed und dort dürft ihr so hässlich abbauen wie ihr wollt.  Aus dieser Aussage erschließt sich hoffentlich auch, dass in der Hauptwelt Wert darauf gelegt wird, dass es schön aussieht. Natürlich kann man auch hier Farmen anlegen und Mienen bauen, aber bitte alles so das es auch ansehnlich ist.
