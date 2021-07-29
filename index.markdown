@@ -20,12 +20,11 @@ Euch steht es natürlich frei zu bauen wie ihr wollt, dennoch wollen wir euch ge
 
 Die zweite Anregung, welche wir euch geben wollen ist das RPG gerne von uns gesehen ist. Niemand ist verpflichtet RPG zu betreiben, dennoch kann es einem Server sehr viel Leben schenken, wenn RPG Situationen entstehen, zumal es häufig auch kreative Anregung ist, etwas zu bauen. Ob es Ruinen sind nach geführten Kriegen, Ihr auf der Welt eine Religion verbreiten wollt und heilige Stätten errichtet, oder man sich in einer Arena zusammen findet, weil zwei RPG Charakter ein Duell austragen.
 
-<ul>
-	Weitere Server Infos:
-	<li> Empfohlene Mod: Optifine für 1.17.1 </li>
-	<li> Empfohlenes Resource Pack: Faithful 32x32 <br /> (Wird auch automatischer Download bei Serverbeitritt angeboten)</li>
-	<li> Empfohlene Shader: Sildur's Shader </li>
-</ul>
+### Weitere Server Infos:
+* Empfohlene Mod: Optifine für 1.17.1 oder Fabric + [Sodium](https://github.com/CaffeineMC/sodium-fabric/releases) für 1.17.1
+* Empfohlenes Resource Pack: Faithful 32x32 <br /> (Automatischer Download wird bei Serverbeitritt angeboten)
+* Empfohlene Shader: [Sildur's Shader](https://sildurs-shaders.github.io/downloads/)
+
 
 
 ----
