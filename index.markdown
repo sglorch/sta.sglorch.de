@@ -22,6 +22,8 @@ Die zweite Anregung, welche wir euch geben wollen ist das RPG gerne von uns gese
 
 
 <span style="color:red"><b>Für alle weiteren Fragen (und unter anderem Whitelisting), richtet euch an Lennert (Minetravel01, minetravel#2890) oder Stefan (ARnonym123, ARnonym123#2605).</b></span>
+
+
 ## Wichtige Befehle:
 	/spawn
 <p>Hiermit teleportierst du dich zum Spawnpunkt der normalen Welt, an welchem alle Möglichen Warp-Signs zufinden sind. <br>
