@@ -20,9 +20,9 @@ Euch steht es natürlich frei zu bauen wie ihr wollt, dennoch wollen wir euch ge
 
 Die zweite Anregung, welche wir euch geben wollen ist das RPG gerne von uns gesehen ist. Niemand ist verpflichtet RPG zu betreiben, dennoch kann es einem Server sehr viel Leben schenken, wenn RPG Situationen entstehen, zumal es häufig auch kreative Anregung ist, etwas zu bauen. Ob es Ruinen sind nach geführten Kriegen, Ihr auf der Welt eine Religion verbreiten wollt und heilige Stätten errichtet, oder man sich in einer Arena zusammen findet, weil  zwei RPG Charakter ein Duell austragen.
 
-
+<div style="background-color: #e0e0dc">
 <span style="color:red"><b>Für alle weiteren Fragen (und unter anderem Whitelisting), richtet euch an Lennert (Minetravel01, minetravel#2890) oder Stefan (ARnonym123, ARnonym123#2605).</b></span>
-
+</div>
 
 ## Wichtige Befehle:
 	/spawn
