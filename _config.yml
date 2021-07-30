@@ -16,7 +16,8 @@ plugins:
 
 navbar-links:
   Discord (Saloon): "https://discord.gg/z2JXAaJZhe"
-  Karte: "https://map.sta.sglorch.de/"
+  Karte (2D, Live): "https://map.sta.sglorch.de/"
+  Karte (3D, Daily): "https://maps.server.sglorch.de/sta/"
 
 url-pretty: "STA.sglorch.de"
 
