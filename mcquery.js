@@ -1,5 +1,5 @@
 //based on a pen by @robinselmer
-var queryurl = "https://api.minetools.eu/query/server.sglorch.de/25565";
+var queryurl = "https://api.minetools.eu/query/mc.sta.sglorch.de/25565";
  
 $.getJSON(queryurl, function(r) {
 	//data is the JSON string
