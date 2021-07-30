@@ -15,6 +15,7 @@ ext-js: //cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
 
 ### Aktuelle Server infos
 <div style="" id="rest">Loading ...</div>
+**IP:** _sta.sglorch.de_ oder _mc.sta.sglorch.de_ oder _176.57.156.246:25565_
 
 ----
 
