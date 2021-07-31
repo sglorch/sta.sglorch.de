@@ -17,6 +17,8 @@ ext-js: //cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
 <div style="" id="rest">Loading ...</div>
 **IP:** _sta.sglorch.de_ oder _mc.sta.sglorch.de_ oder _176.57.156.246:25565_
 
+_Hinweis zur 3D-Karte:_ Die Karte wird jeden morgen um 3:30 Uhr generiert. Eure Änderungen sind also vermutlich erst am nächsten Tag auf der Karte zu sehen.
+
 ----
 
 Hallo meine Lieben,<br />
@@ -72,6 +74,12 @@ Weiterhin könnt Ihr sobald ihr euch etwas aufgebaut habt einen der Admins frage
 ----
 	/cpassword <Passwort>
 <p>Erstellt ein Lock auf einem block, welches mit einem Passwort zugänglich ist.</p>
+----
+	/cunlock
+<p>Entfernt das Schloss von gesperrten Blöcken</p>
+----
+	/cmodify <Spielername(n)>
+<p>Fügt andere Spieler zu privaten Blöcken hinzu</p>
 ----
 	/helpop <Nachricht>
 <p>Um eine Nachricht nur an Admins zu senden, die online sind.</p>
