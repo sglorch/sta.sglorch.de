@@ -15,7 +15,7 @@ ext-js: //cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
 
 ### Aktuelle Server infos
 <div style="" id="rest">Loading ...</div>
-**IP:** _sta.sglorch.de_ oder _mc.sta.sglorch.de_ oder _176.57.156.246:25565_
+**IP:** _sta.sglorch.de_ oder _mc.sta.sglorch.de_ oder ~~_176.57.156.246:25565_~~ _173.249.29.137:25565_
 
 _Hinweis zur 3D-Karte:_ Die Karte wird jeden morgen um 3:30 Uhr generiert. Eure Änderungen sind also vermutlich erst am nächsten Tag auf der Karte zu sehen.
 
