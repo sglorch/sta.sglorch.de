@@ -47,14 +47,14 @@ Form des Antrags:
 * Domain: Hauptthema der Gottheit
 * Alignment: Good/ neutral / evil
 * Offerings: Name des Items was geopfert wird + Vorschlag wieviel Favor es bringen soll (Ganze Zahl)-> mehrere Möglich
-* Ritual: Beschreibung eines Rituals mit Voraussetzungen und gewünschtem Effekt, Ritualtypen sind:     Gathering Items, Killing mobs, meditate at shrine-> mehrere Möglich, mehr Infos unter https://github.com/xIdentified/Devotions/wiki/Rituals
+* Ritual: Beschreibung eines Rituals mit Voraussetzungen und gewünschtem Effekt, Ritualtypen sind:     Gathering Items, Killing mobs, meditate at shrine-> mehrere Möglich, mehr Infos unter  [Rituals · xIdentified/Devotions Wiki](https://github.com/xIdentified/Devotions/wiki/Rituals)
 * Blessings & Curses: Bestimmte Potioneffekte, welche bei hohem/ niedrigen Favor auftreten können->mehrere Möglich
-* Miracles: Bestimmte Commands/ Effekte die selten eintreten wenn sehr hoher Favor wert gehalten     wird.-> mehr Info unter: https://github.com/xIdentified/Devotions/wiki/Miracles
+* Miracles: Bestimmte Commands/ Effekte die selten eintreten wenn sehr hoher Favor wert gehalten     wird.-> mehr Info unter: [Miracles · xIdentified/Devotions Wiki](https://github.com/xIdentified/Devotions/wiki/Miracles)
 
 Das Ganze wird auf Balancing überprüft und vor allem Logischen Zusammenhang mit Lore und Story. 
 Umso ausgearbeiteter die Tempel sind oder mehr Tempel es gibt und umso besser die heilige Schrift ist, desto "besser" darf die Religion sein.
 
-Wiki des Deities Plugin ist hier zu finden: https://github.com/xIdentified/Devotions/wiki
+Wiki des Deities Plugin ist hier zu finden: [Home · xIdentified/Devotions Wiki](https://github.com/xIdentified/Devotions/wiki)
 
 ----
 
