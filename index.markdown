@@ -34,6 +34,30 @@ ext-js: //cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
 </div>
 ----
 
+## Deities:
+Neuheit dieses Jahres ist das Devotions Plugin, womit es Möglich ist Religionen/ Gottheiten zu erstellen. Um eben diese zu Gründen, muss ein Antrag eingereicht werden bei Stefan oder Lennert.
+Voraussetzungen:
+* Tempel muss errichtet sein
+* Heilige Schrift muss erstellt worden sein (Format: Minecraft Buch)
+
+Form des Antrags:
+
+* Name der Gottheit
+* Lore: 2-3 Sätze
+* Domain: Hauptthema der Gottheit
+* Alignment: Good/ neutral / evil
+* Offerings: Name des Items was geopfert wird + Vorschlag wieviel Favor es bringen soll (Ganze Zahl)-> mehrere Möglich
+* Ritual: Beschreibung eines Rituals mit Voraussetzungen und gewünschtem Effekt, Ritualtypen sind:     Gathering Items, Killing mobs, meditate at shrine-> mehrere Möglich, mehr Infos unter https://github.com/xIdentified/Devotions/wiki/Rituals
+* Blessings & Curses: Bestimmte Potioneffekte, welche bei hohem/ niedrigen Favor auftreten können->mehrere Möglich
+* Miracles: Bestimmte Commands/ Effekte die selten eintreten wenn sehr hoher Favor wert gehalten     wird.-> mehr Info unter: https://github.com/xIdentified/Devotions/wiki/Miracles
+
+Das Ganze wird auf Balancing überprüft und vor allem Logischen Zusammenhang mit Lore und Story. 
+Umso ausgearbeiteter die Tempel sind oder mehr Tempel es gibt und umso besser die heilige Schrift ist, desto "besser" darf die Religion sein.
+
+Wiki des Deities Plugin ist hier zu finden: https://github.com/xIdentified/Devotions/wiki
+
+----
+
 ## Wichtige Befehle:
 
 	/party
