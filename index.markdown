@@ -33,28 +33,6 @@ ext-js: //cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
 <span style="color:red"><b>Für alle weiteren Fragen (und unter anderem Whitelisting), richtet euch an Lennert (Minetravel01, minetravel#2890) oder Stefan (ARnonym123, ARnonym123#2605).</b></span>
 </div>
 ----
-## Deities
-<p>Neuheit dieses Jahres ist das Devotions Plugin, womit es Möglich ist Religionen/ Gottheiten zu erstellen. Um eben diese zu Gründen, muss ein Antrag eingereicht werden bei Stefan oder Lennert.</p>
-<p>Voraussetzungen: <br>
- - Tempel muss errichtet sein<br>
- - Heilige Schrift muss erstellt worden sein (Format: Minecraft Buch)<br>
-<br>
-Form des Antrags:<br>
- <br>
-- Name der Gottheit<br>
-- Lore: 2-3 Sätze<br>
-- Domain: Hauptthema der Gottheit<br>
-- Alignment: Good/ neutral / evil<br>
-- Offerings: Name des Items was geopfert wird + Vorschlag wieviel Favor es bringen soll (Ganze Zahl)-> mehrere Möglich<br>
-- Ritual: Beschreibung eines Rituals mit Voraussetzungen und gewünschtem Effekt, Ritualtypen sind:     Gathering Items, Killing mobs, meditate at shrine-> mehrere Möglich, mehr Infos unter https://github.com/xIdentified/Devotions/wiki/Rituals<br>
-- Blessings & Curses: Bestimmte Potioneffekte, welche bei hohem/ niedrigen Favor auftreten können->mehrere Möglich<br>
-- Miracles: Bestimmte Commands/ Effekte die selten eintreten wenn sehr hoher Favor wert gehalten     wird.-> mehr Info unter: https://github.com/xIdentified/Devotions/wiki/Miracles<br>
-<br>
-Das Ganze wird auf Balancing überprüft und vor allem Logischen Zusammenhang mit Lore und Story. <br>
-Umso ausgearbeiteter die Tempel sind oder mehr Tempel es gibt und umso besser die heilige Schrift ist, desto "besser" darf die Religion sein.<br>
-<br>
-Wiki des Deities Plugin ist hier zu finden: https://github.com/xIdentified/Devotions/wiki</p>
-----
 
 ## Wichtige Befehle:
 
