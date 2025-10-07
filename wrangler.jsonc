@@ -1,0 +1,13 @@
+{
+  "compatibility_date": "2025-04-01",
+  "name": "sta-sglorch-de",
+  "preview_urls": true,
+  "workers_dev": true,
+  "assets": {
+    "directory": "./_site/",
+    "not_found_handling": "404-page"
+  },
+  "placement": {
+    "mode": "smart"
+  }
+}
