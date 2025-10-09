@@ -13,5 +13,4 @@
   "build": {
     "command": "bundler exec jekyll build",
   },
-  "pages_build_output_dir": "_site",
 }
