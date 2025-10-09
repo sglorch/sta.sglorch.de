@@ -11,7 +11,7 @@
     "mode": "smart"
   },
   "build": {
-    "command": "bundle exec jekyll build",
+    "command": "bundler exec jekyll build",
   },
   "pages_build_output_dir": "_site",
 }
